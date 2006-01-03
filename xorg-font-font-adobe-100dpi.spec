@@ -1,12 +1,12 @@
 Summary:	adobe-100dpi font
 Summary(pl):	Font adobe-100dpi
 Name:		xorg-font-font-adobe-100dpi
-Version:	0.99.2
+Version:	1.0.0
 Release:	0.1
 License:	MIT
 Group:		Fonts
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC3/font/font-adobe-100dpi-%{version}.tar.bz2
-# Source0-md5:	52721996e39042133d7a0fea4e7c0647
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/font/font-adobe-100dpi-%{version}.tar.bz2
+# Source0-md5:	443acfe70e26716282f9068730fe92c4
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
