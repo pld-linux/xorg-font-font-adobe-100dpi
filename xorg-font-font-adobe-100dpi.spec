@@ -1,5 +1,5 @@
 Summary:	adobe-100dpi font
-Summary(pl.UTF-8):   Font adobe-100dpi
+Summary(pl.UTF-8):	Font adobe-100dpi
 Name:		xorg-font-font-adobe-100dpi
 Version:	1.0.0
 Release:	0.1
