@@ -1,12 +1,12 @@
 Summary:	Adobe 100dpi bitmap fonts
 Summary(pl.UTF-8):	Fonty bitmapowe Adobe 100dpi
 Name:		xorg-font-font-adobe-100dpi
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	MIT
 Group:		Fonts
 Source0:	http://xorg.freedesktop.org/releases/individual/font/font-adobe-100dpi-%{version}.tar.bz2
-# Source0-md5:	c754c3f4a5e08442bf6972b9466625ed
+# Source0-md5:	1518e417b18e22673a8f4e2e4adda47b
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
